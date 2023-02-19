@@ -1,6 +1,8 @@
-#main{
-text-align: center;
+body{
+    background: url("https://images.unsplash.com/photo-1566305977571-5666677c6e98?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=345&q=80");
+    text-align: center;
 }
+
 
 h1{
     text-align: center;
@@ -10,9 +12,8 @@ h1{
     padding: 50px;
     margin: 50px;
 }
-body{
-    background: url("https://images.unsplash.com/photo-1566305977571-5666677c6e98?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=345&q=80");
-
+#main{
+    text-align: center;
 }
 #image{
     display: block;
@@ -22,6 +23,6 @@ body{
     max-height: auto;
     
 }
-#main{
-    text-align: center;
+ul{
+    display: inline-block;
 }
